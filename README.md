@@ -54,4 +54,4 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 
 ## Автор
 
-Глазков Даниил (DaniilGla3)
+Даниил Глазков ([@D_Gla3](https://t.me/D_Gla3))
